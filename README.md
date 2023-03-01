@@ -23,3 +23,8 @@ The folder has three files
 
 # Mathematical Background
 ![Differentail Drive Mathematics](/differential_drive_math.png?raw=true "Differentail Drive Mathematics title")
+
+# Future Changes
+
+Future Iterations of the script will have the PID and Encoder functionality moved into the Motor.cpp and Motor.h
+Provisions for the encoder variables are already made. It will improve the functionality and portability of the code.
