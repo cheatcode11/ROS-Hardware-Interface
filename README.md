@@ -22,3 +22,4 @@ The folder has three files
 - Motor.h
 
 # Mathematical Background
+![Differentail Drive Mathematics](/repository/differentail_drive_math.png?raw=true "Differentail Drive Mathematics title")
